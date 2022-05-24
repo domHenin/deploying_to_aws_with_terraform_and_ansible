@@ -149,3 +149,6 @@ terraform {
             -- name: set_worker_default_rt_assoc
             -- provider: point to region-worker
             -- route_table_id: poing to 'internet_route_oregon'.id
+
+    - create security_group
+      - 
